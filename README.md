@@ -1,1 +1,1 @@
-# ArcGIS-API-WebMAp
+# ArcGIS-API-WebMap
